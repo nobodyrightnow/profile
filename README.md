@@ -1,7 +1,4 @@
-## hi
-i'm not really anyone right now
-i'm studying computer science at UCD, Ireland
-maybe this profile will be full of things someday
+hello. i'm nobody right now. 
 
 <!--
 **shyishghost/shyishghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
